@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+}
+h1 {
+  font-family: Monoton;
+  font-size: 100px;
+  font-weight: normal;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+h2 {
+  font-family: 'Press Start 2P';
+  font-size: 30px;
+}
+img {
+  border-radius: 50%;
+  width: 200px;
+}
+div {
+  text-align: center;
+}
+p {
+  font-family: Sacramento;
+  font-size: 26px;
+}
+#firma {
+  text-align: right;
+}
